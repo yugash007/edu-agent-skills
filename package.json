@@ -1,0 +1,38 @@
+{
+  "name": "edu-agent-skills",
+  "version": "1.1.0",
+  "description": "Plug-and-play educational skills for AI coding agents. Install into Gemini CLI, Claude Code, Cursor, and more with one command.",
+  "type": "module",
+  "bin": {
+    "edu-agent-skills": "./bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "ai",
+    "agent",
+    "skills",
+    "education",
+    "teaching",
+    "gemini-cli",
+    "claude-code",
+    "cursor",
+    "coding-agent",
+    "active-learning"
+  ],
+  "author": "edu-agent-skills contributors",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YugaCodeLabs/edu-agent-skills.git"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {}
+}

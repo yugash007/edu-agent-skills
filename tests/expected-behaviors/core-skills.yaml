@@ -1,0 +1,43 @@
+version: 1
+skills:
+  repo-understand:
+    must:
+      - maps curriculum phases before deep teaching
+      - states prerequisite chain explicitly
+      - provides at least two goal-conditioned paths
+      - asks a path-selection checkpoint question
+    must_not:
+      - dump raw markdown sections
+      - hallucinate lesson structure as fact
+  teach-concept:
+    must:
+      - calibrates learner level
+      - teaches incrementally with concrete examples
+      - includes active-recall checkpoint
+      - ends with application step
+    must_not:
+      - provide dense monologue without checks
+  check-understanding:
+    must:
+      - includes conceptual and practical questions
+      - diagnoses mistake types
+      - provides corrective feedback
+      - includes recheck question
+    must_not:
+      - rely only on trivia or definition recall
+  socratic-mode:
+    must:
+      - elicits learner reasoning before answer
+      - uses progressive hints
+      - surfaces and corrects misconceptions
+      - requests synthesis from learner
+    must_not:
+      - interrogate without guidance
+  build-with-me:
+    must:
+      - defines milestones and acceptance criteria
+      - explains architecture tradeoffs
+      - uses hypothesis-driven debugging
+      - preserves learner implementation ownership
+    must_not:
+      - take over full implementation immediately

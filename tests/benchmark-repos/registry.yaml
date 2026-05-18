@@ -1,0 +1,26 @@
+version: 1
+repos:
+  - id: ai-engineering-from-scratch
+    domain: ai-engineering
+    focus:
+      - curriculum-mapping
+      - project-coaching
+    url: https://github.com/example/ai-engineering-from-scratch
+  - id: fastai
+    domain: deep-learning
+    focus:
+      - concept-teaching
+      - applied-practice
+    url: https://github.com/fastai/course22p2
+  - id: huggingface-course
+    domain: nlp
+    focus:
+      - prerequisite-chains
+      - misconception-detection
+    url: https://github.com/huggingface/course
+  - id: full-stack-deep-learning
+    domain: ml-systems
+    focus:
+      - architecture-review
+      - build-coaching
+    url: https://github.com/fullstackdeeplearning/full-stack-deep-learning

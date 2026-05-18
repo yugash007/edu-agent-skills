@@ -1,0 +1,12 @@
+.git
+.codex
+.gemini
+.claude
+.cursor
+tests/
+templates/
+examples/
+docs/examples/
+CONTRIBUTING.md
+ROADMAP.md
+AGENTS.md
