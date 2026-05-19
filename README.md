@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/edu-agent-skills"><img src="https://img.shields.io/npm/v/edu-agent-skills?style=flat-square&color=FF5733&logo=npm" alt="NPM Version"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/YugaCodeLabs/edu-agent-skills?style=flat-square&color=2bbc8a&logo=github" alt="License"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/yugash007/edu-agent-skills?style=flat-square&color=2bbc8a&logo=github" alt="License"></a>
   <img src="https://img.shields.io/badge/Pedagogy-Socratic-orange?style=flat-square&logo=gitbook&logoColor=white" alt="Socratic Pedagogy">
   <img src="https://img.shields.io/badge/Platforms-Gemini%20%7C%20Claude%20%7C%20Cursor-blue?style=flat-square&logo=visual-studio-code" alt="Supported Agents">
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"></a>
